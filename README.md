@@ -1,2 +1,3 @@
-# ProfileCard
-Created with CodeSandbox
+PROFILE CARD 
+Profile Card using REACT , CSS , JSX.
+
