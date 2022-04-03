@@ -1,3 +1,2 @@
-PROFILE CARD 
-Profile Card using REACT , CSS , JSX.
+PROFILE CARD USING REACT , CSS , JSX.
 
