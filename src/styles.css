@@ -1,0 +1,60 @@
+.card {
+  box-shadow: 0 4px 8px 0 #e4aec5;
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.topic {
+  color: #05595b;
+  font-size: 50px;
+  text-shadow: 3px 7px #85c88a;
+}
+
+.image {
+  display: block;
+}
+
+.name {
+  font-family: "Arial, Helvetica, sans-serif";
+  font-size: 18px;
+  color: #2c3333;
+}
+
+.title {
+  color: #3a3845;
+  font-size: 18px;
+  font-style: oblique 40deg;
+  font-family: "Arial, Helvetica, sans-serif";
+}
+
+.location {
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font-family: "Arial, Helvetica, sans-serif";
+  color: #495371;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #712b75;
+  text-align: center;
+  cursor: pointer;
+  width: 95%;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: #062c30;
+}
+
+button:hover,
+a:hover {
+  opacity: 0.7;
+}
